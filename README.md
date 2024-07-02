@@ -178,9 +178,9 @@ Your valuable feedback is greatly appreciated. You can reach out to me via below
 
 
 
-- [Shahid](https://github.com/Aman49)
+- [Aman](https://github.com/Aman49)
 
-[![linkedin](https://www.linkedin.com/in/amankumar2003/)
+- [Linkedin](https://www.linkedin.com/in/amankumar2003/)
 
 ---
 
