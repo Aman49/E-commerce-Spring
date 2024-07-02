@@ -178,15 +178,10 @@ Your valuable feedback is greatly appreciated. You can reach out to me via below
 
 
 
-- [Shahid](https://shahid77137.github.io/)
+- [Shahid](https://github.com/Aman49)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahid-afridi-40ab93241/)
+[![linkedin](https://www.linkedin.com/in/amankumar2003/)
 
 ---
 
-## 📝 Acknowledgements
-- [Masai School](https://www.masaischool.com/)
----
-<hr>
-<h1 align="center">THANK YOU FOR VISITING OUR WEBSITE</h1>
 
